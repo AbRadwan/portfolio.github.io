@@ -1,7 +1,7 @@
 title: Abdelrahman Radwan
-logo: "M:/CV/me.jpeg"
+logo: "M:/CV/me.png"
 
-logo: /assets/img/me.jpeg
+#logo: /assets/img/me.jpeg
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
